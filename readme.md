@@ -1,1 +1,1 @@
-Yapılan değişiklerin hepsini içeren bir xml dosyası
+Yapılan değişiklerin hepsini içeren bir xml dosyası.
