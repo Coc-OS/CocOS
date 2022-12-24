@@ -574,8 +574,8 @@
 		<settings pass="oobeSystem">
 			<component name="Microsoft-Windows-Shell-Setup">
 				<OEMInformation>
-					<Model>v0.5.1</Model>
-					<SupportURL>https://atlasos.net</SupportURL>
+					<Model>RenewOS 10</Model>
+					<SupportURL>https://www.nikoforum.gq/index.php?forums/renewos-teknik-destek.54/</SupportURL>
 				</OEMInformation>
 				<OOBE>
 					<HideEULAPage>false</HideEULAPage>
@@ -624,7 +624,7 @@
 				</ImageInstall>
 				<UserData>
 					<AcceptEula>false</AcceptEula>
-					<FullName>Atlas</FullName>
+					<FullName>RenewOS</FullName>
 					<ProductKey>
 						<Key></Key>
 					</ProductKey>
@@ -835,7 +835,7 @@
 			<Task>imageOptionsCreateIso</Task>
 		</ImageTasks>
 		<AutoIsoFile>C:\RenewOS10.iso</AutoIsoFile>
-		<AutoIsoLabel>RenewOS 10</AutoIsoLabel>
+		<AutoIsoLabel>RenewOS10_24.12.2022</AutoIsoLabel>
 		<AutoSplitSize>4000</AutoSplitSize>
 		<CleanHotfixedLeftovers>3</CleanHotfixedLeftovers>
 		<ReuseDriverCache>true</ReuseDriverCache>
