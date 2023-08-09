@@ -12,7 +12,7 @@
       <img alt="Son Sürüm" src="https://img.shields.io/badge/09%2008%2023%20-%2009%2008%2023?style=flat-square&label=Son%20S%C3%BCr%C3%BCm" />
     </a>
     <a href="https://coc-os.github.io">
-      <img alt="İndirmeler" src="https://img.shields.io/badge/25%20-%2025?style=flat-square&label=%C4%B0ndirmeler" />
+      <img alt="İndirmeler" src="https://img.shields.io/badge/2K%20-%202K?label=%C4%B0ndirmeler" />
     </a>
   </p>
 <h4 align="center">Açık kaynaklı ve şeffaf bir işletim sistemi, performans, gizlilik ve kararlılık için tasarlandı</h4>
