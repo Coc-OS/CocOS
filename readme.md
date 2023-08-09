@@ -2,17 +2,17 @@
   <a href="https://cocos10.github.io"><img src="https://cdn.discordapp.com/attachments/1074407165856583801/1138876389471309965/img1.jpg" alt="CocOS" width="900" style="border-radius: 30px"></a>
 </h1>
   <p align="center">
-    <a href="https://github.com/Atlas-OS/Atlas/blob/main/LICENSE">
-      <img alt="Lisans" src="https://img.shields.io/github/license/atlas-os/atlas?style=for-the-badge&logo=github&color=1A91FF"/>
+    <a href="https://img.shields.io/badge/Lisans%20-%201">
+      <img alt="Lisans" src="https://img.shields.io/badge/GPL%20-%20GPL?style=flat-square&label=Lisans"/>
     </a>
-    <a href="https://github.com/Atlas-OS/Atlas/graphs/contributors">
-      <img alt="Katkıda Bulunanlar" src="https://img.shields.io/github/contributors/atlas-os/atlas?style=for-the-badge&color=1A91FF" />
+    <a href="https://github.com/orgs/CocOS10/people">
+      <img alt="Geliştiriciler" src="https://img.shields.io/badge/2%20-%202?style=flat-square&label=Geli%C5%9Ftiriciler" />
     </a>
-    <a href="https://github.com/Atlas-OS/Atlas/releases/latest">
-      <img alt="Son Sürüm" src="https://img.shields.io/github/release/atlas-os/atlas?style=for-the-badge&color=1A91FF" />
+    <a href="https://cocos10.github.io">
+      <img alt="Son Sürüm" src="https://img.shields.io/badge/09%2008%2023%20-%2009%2008%2023?style=flat-square&label=Son%20S%C3%BCr%C3%BCm" />
     </a>
-    <a href="https://github.com/Atlas-OS/Atlas/releases">
-      <img alt="İndirmeler" src="https://img.shields.io/github/downloads/Atlas-OS/Atlas/total?style=for-the-badge&logo=github&color=1A91FF" />
+    <a href="https://cocos10.github.io">
+      <img alt="İndirmeler" src="https://img.shields.io/badge/25%20-%2025?style=flat-square&label=%C4%B0ndirmeler" />
     </a>
   </p>
 <h4 align="center">Açık kaynaklı ve şeffaf bir işletim sistemi, performans, gizlilik ve kararlılık için tasarlandı</h4>
@@ -56,4 +56,4 @@ Windows'u geliştirmek için yaptığımız bazı değişiklikler:
 - Optimize edilmiş işlem planlaması
 
 ### 🔒 Yasal
-Çoğu düzenlenmiş Windows işletim sistemleri, bir ISO dosyasıyla paylaşılır. Bu [Microsoft'un Hizmet Şartları'nı](https://www.microsoft.com/en-us/Useterms/Retail/Windows/10/UseTerms_Retail_Windows_10_English.htm) ihlal etmekle kalmayıp, yüklemek için güvenli bir yol da değildir.
+Düzenlenmiş Windows işletim sistemleri Bu [Microsoft'un Hizmet Şartları'nı](https://www.microsoft.com/en-us/Useterms/Retail/Windows/10/UseTerms_Retail_Windows_10_English.htm) ihlal eder.
