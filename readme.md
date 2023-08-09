@@ -8,26 +8,26 @@
     <a href="https://github.com/orgs/Coc-OS/people">
       <img alt="Geliştiriciler" src="https://img.shields.io/badge/2%20-%202?style=flat-square&label=Geli%C5%9Ftiriciler" />
     </a>
-    <a href="https://cocos.github.io">
+    <a href="https://coc-os.github.io">
       <img alt="Son Sürüm" src="https://img.shields.io/badge/09%2008%2023%20-%2009%2008%2023?style=flat-square&label=Son%20S%C3%BCr%C3%BCm" />
     </a>
-    <a href="https://cocos.github.io">
+    <a href="https://coc-os.github.io">
       <img alt="İndirmeler" src="https://img.shields.io/badge/25%20-%2025?style=flat-square&label=%C4%B0ndirmeler" />
     </a>
   </p>
 <h4 align="center">Açık kaynaklı ve şeffaf bir işletim sistemi, performans, gizlilik ve kararlılık için tasarlandı</h4>
 
 <p align="center">
-  <a href="https://cocos.github.io">Website</a>
+  <a href="https://coc-os.github.io">Website</a>
   •
-  <a href="https://comingsoon.cocos.github.io">Dokümantasyon</a>
+  <a href="https://comingsoon.coc-os.github.io">Dokümantasyon</a>
   •
   <a href="https://discord.gg/jb2mB4JZav" target="_blank">Discord</a>
 </p>
 
 ## 🤔 **CocOS nedir?**
 
-CocOS Windows 10'un düzenlenmiş, oyun performansını olumsuz etkileyen tüm bileşenlerin kaldırılmış bir halidir. CocOS, performansa odaklanırken ayrıca; sistem gecikmesi, ağ gecikmesi, giriş gecikmesi (input lag) ve sistem güvenliği için de iyi bir seçenektir. CocOS hakkında daha fazla bilgiyi [sitemizden](https://cocos.github.io) öğrenebilirsiniz.
+CocOS Windows 10'un düzenlenmiş, oyun performansını olumsuz etkileyen tüm bileşenlerin kaldırılmış bir halidir. CocOS, performansa odaklanırken ayrıca; sistem gecikmesi, ağ gecikmesi, giriş gecikmesi (input lag) ve sistem güvenliği için de iyi bir seçenektir. CocOS hakkında daha fazla bilgiyi [sitemizden](https://coc-os.github.io) öğrenebilirsiniz.
 
 
 ## 👀 **Neden CocOS?**
