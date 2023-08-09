@@ -56,4 +56,4 @@ Windows'u geliştirmek için yaptığımız bazı değişiklikler:
 - Optimize edilmiş işlem planlaması
 
 ### 🔒 Yasal
-Düzenlenmiş Windows işletim sistemleri Bu [Microsoft'un Hizmet Şartları'nı](https://www.microsoft.com/en-us/Useterms/Retail/Windows/10/UseTerms_Retail_Windows_10_English.htm) ihlal eder.
+Düzenlenmiş Windows işletim sistemleri [Microsoft'un Hizmet Şartları'nı](https://www.microsoft.com/en-us/Useterms/Retail/Windows/10/UseTerms_Retail_Windows_10_English.htm) ihlal eder.
