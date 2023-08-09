@@ -39,7 +39,7 @@ CocOS Windows'a gömülü bir şekilde gelen bilgi toplama servislerinin hepsini
 CocOS'ın Windows'un kontrolünde olmayan şeylerde (tarayıcılar ve üçüncü parti uygulamalar gibi) güvenliğinizi sağlayamayacağını unutmayın.
 
 ### 🚀 Daha fazla alan
-Hazır gelen uygulamalar ve diğer önemsiz bileşenler Atlas'da kaldırıldı. Uyumluluk sorunlarına nazaran, indirdiğiniz boyutu önemli ölçüde düşürüyor ve sisteminizi daha akıcı yapıyor. Bu nedenle bazı özellikler (Windows Defender gibi) komple kaldırıldı.
+Hazır gelen uygulamalar ve diğer önemsiz bileşenler CocOS'da kaldırıldı. Uyumluluk sorunlarına nazaran, indirdiğiniz boyutu önemli ölçüde düşürüyor ve sisteminizi daha akıcı yapıyor. Bu nedenle bazı özellikler (Windows Defender gibi) komple kaldırıldı.
 
 ### ✅ Daha fazla performans
 İnternette dolaşan bazı düzenlenmiş sistemler Windows'u o kadar düzenliyor ki, önemli olan Bluetooth, Wi-Fi gibi özelliklerin uyumluluğunu bozuyorlar. CocOS tam ortasını, iyi bir performans alırken iyi seviyede bir uyumluluk da hedefliyor.
