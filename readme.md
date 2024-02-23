@@ -3,16 +3,16 @@
 </h1>
   <p align="center">
     <a href="https://github.com/Coc-OS/CocOS/blob/main/LICENSE">
-      <img alt="Lisans" src="https://img.shields.io/badge/GPL%203%20-%20GPL%203?style=flat-square&label=Licence"/>
+      <img alt="Licence" src="https://img.shields.io/badge/GPL%203%20-%20GPL%203?style=flat-square&label=Licence"/>
     </a>
     <a href="https://github.com/orgs/Coc-OS/people">
-      <img alt="Geliştiriciler" src="https://img.shields.io/badge/2%20-%202?style=flat-square&label=Developers" />
+      <img alt="Developers" src="https://img.shields.io/badge/2%20-%202?style=flat-square&label=Developers" />
     </a>
     <a href="https://coc-os.github.io">
-      <img alt="Son Sürüm" src="https://img.shields.io/badge/v2.2?style=flat-square&label=Latest" />
+      <img alt="Latest" src="https://img.shields.io/badge/v2.2?style=flat&label=Latest" />
     </a>
     <a href="https://coc-os.github.io">
-      <img alt="İndirmeler" src="https://img.shields.io/badge/2K%20-%202K?style=flat-square&label=Downloads" />
+      <img alt="Downloads" src="https://img.shields.io/badge/2K%20-%202K?style=flat-square&label=Downloads" />
     </a>
   </p>
 <h4 align="center">Açık kaynaklı ve şeffaf bir işletim sistemi, performans, gizlilik ve kararlılık için tasarlandı</h4>
