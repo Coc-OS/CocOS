@@ -1,5 +1,5 @@
 <h1 align="center">
-  <a href="https://cocos10.github.io"><img src="https://cdn.discordapp.com/attachments/1138868699269447720/1145652269216444417/VirtualBox_asdadsaasd_28_08_2023_12_28_14.png?ex=65e59552&is=65d32052&hm=0edb05adf46cfaa2c4dadaa7105c1edfec36ed122948fca888fb1a7c34ca5092&" alt="CocOS" width="900" style="border-radius: 30px"></a>
+  <a href="https://cocos10.github.io"><img src="https://cdn.discordapp.com/attachments/1093989166028693504/1210692208307478539/img1.jpg?ex=65eb7bfc&is=65d906fc&hm=45a27e0b1f335716ba645bd906853f7b06832e7100edf6532adbf3ce7bd2dd10&" alt="CocOS" width="900" style="border-radius: 30px"></a>
 </h1>
   <p align="center">
     <a href="https://github.com/Coc-OS/CocOS/blob/main/LICENSE">
