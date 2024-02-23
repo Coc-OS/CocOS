@@ -9,7 +9,7 @@
       <img alt="Geliştiriciler" src="https://img.shields.io/badge/2%20-%202?style=flat-square&label=Geli%C5%9Ftiriciler" />
     </a>
     <a href="https://coc-os.github.io">
-      <img alt="Son Sürüm" src="https://img.shields.io/badge/09%2008%2023%20-%2009%2008%2023?style=flat-square&label=Son%20S%C3%BCr%C3%BCm" />
+      <img alt="Son Sürüm" src="https://img.shields.io/badge/09%2008%2023%20-%2009%2008%2023?style=flat-square&label=v2.2" />
     </a>
     <a href="https://coc-os.github.io">
       <img alt="İndirmeler" src="https://img.shields.io/badge/2K%20-%202K?style=flat-square&label=%C4%B0ndirmeler" />
