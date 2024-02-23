@@ -9,9 +9,6 @@
       <img alt="Developers" src="https://img.shields.io/badge/2%20-%202?style=flat-square&label=Developers" />
     </a>
     <a href="https://coc-os.github.io">
-      <img alt="Latest" src="https://img.shields.io/badge/v2.2?style=flat&label=Latest" />
-    </a>
-    <a href="https://coc-os.github.io">
       <img alt="Downloads" src="https://img.shields.io/badge/2K%20-%202K?style=flat-square&label=Downloads" />
     </a>
   </p>
