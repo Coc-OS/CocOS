@@ -9,7 +9,7 @@
       <img alt="Developers" src="https://img.shields.io/badge/2%20-%202?style=flat-square&label=Developers" />
     </a>
     <a href="https://coc-os.github.io">
-      <img alt="Downloads" src="https://img.shields.io/badge/2K%20-%202K?style=flat-square&label=Downloads" />
+      <img alt="Downloads" src="https://img.shields.io/badge/10K+%20-%202K?style=flat-square&label=Downloads" />
     </a>
   </p>
 <h4 align="center">Açık kaynaklı ve şeffaf bir işletim sistemi, performans, gizlilik ve kararlılık için tasarlandı</h4>
