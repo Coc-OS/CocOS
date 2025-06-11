@@ -3,7 +3,7 @@
 </h1>
   <p align="center">
     <a href="https://github.com/Coc-OS/CocOS/blob/main/LICENSE">
-      <img alt="Licence" src="https://img.shields.io/badge/GPL%203%20-%20GPL%203?style=flat-square&label=Licence"/>
+      <img alt="License" src="https://img.shields.io/badge/GPL%203%20-%20GPL%203?style=flat-square&label=License"/>
     </a>
     <a href="https://github.com/orgs/Coc-OS/people">
       <img alt="Developers" src="https://img.shields.io/badge/2%20-%202?style=flat-square&label=Developers" />
